@@ -8,7 +8,7 @@
 
 ###Útgáfustýring: Git og GitHub. (4%)
 
-*	Notið skipulagða Git branch aðferð í hópvinnu. Sjá t.d. <a href="http://www.creativebloq.com/web-design/choose-right-git- branching-strategy-121518344">Choose the right brancing strategy</a>  
+*	Notið skipulagða Git branch aðferð í hópvinnu. 
 *	Búið til wiki á GitHub fyrir verkefnið.
 	*	Höfundar
 	*	Verkefnalýsing og notkun afurðar.
