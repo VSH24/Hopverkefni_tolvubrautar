@@ -6,25 +6,22 @@
 
 ###Einkunn er gefin útfrá vinnuframlagi og eftirtöldum liðum:
 
-1.	Útgáfustýring: Git og GitHub. (4%)
+####Útgáfustýring: Git og GitHub. (4%)
 
-•	Notið skipulagða Git branch aðferð í hópvinnu. Sjá t.d. http://www.creativebloq.com/web-design/choose-right-git- branching-strategy-121518344  
-•	Búið til wiki á GitHub fyrir verkefnið.
-	a.	Höfundar
-	b.	Verkefnalýsing og notkun afurðar.
-	c.	Greinagerð, verkaskipting og hvernig tókst til.
-
-•	Í readme skrá skal skrá tæknileg atriði sem viðkemur uppsetningu, stillinngar, keyrslu og notkun verkefnis.
-
-•	Athugið að frá 21. nóvember (eða fyrr) til 4. desember (skiladagur ) þá eiga nemendur að nota Git og GitHub í hvert skipti sem unnið er í afurð (í öllum kennslustundum og utan) fyrir hópverkefnið
+*	Notið skipulagða Git branch aðferð í hópvinnu. Sjá t.d. http://www.creativebloq.com/web-design/choose-right-git- branching-strategy-121518344  
+*	Búið til wiki á GitHub fyrir verkefnið.
+	*	Höfundar
+	*	Verkefnalýsing og notkun afurðar.
+	*	Greinagerð, verkaskipting og hvernig tókst til.
+*	Í readme skrá skal skrá tæknileg atriði sem viðkemur uppsetningu, stillinngar, keyrslu og notkun verkefnis.
+*	Athugið að frá 21. nóvember (eða fyrr) til 4. desember (skiladagur ) þá eiga nemendur að nota Git og GitHub 	í hvert skipti sem unnið er í afurð (í öllum kennslustundum og utan) fyrir hópverkefnið
 
 
-2.	Afurð (8%)
+####Afurð (8%)
 
 ##Afurð er metin útfrá verkefnalýsingu og vinnuframlagi.
 
-
-#Námsmat og Skil.
+##Námsmat og Skil.
 Hver og einn nemandi í hópnum þarf að skila GitHub slóð á verkefnið í öllum þeim áföngum þar sem hópverkefnið er metið til einkunna í síðasta lagi 4. desember.
 
 Nemendur kynna verkefnið sitt í lok áfangans.
