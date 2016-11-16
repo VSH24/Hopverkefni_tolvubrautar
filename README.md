@@ -4,9 +4,9 @@
 (1% er  jafngilt c.a 3  klst af vinnu í skóla)</i>i>
 
 
-###Einkunn er gefin útfrá vinnuframlagi og eftirtöldum liðum:
+####Einkunn er gefin útfrá vinnuframlagi og eftirtöldum liðum:
 
-####Útgáfustýring: Git og GitHub. (4%)
+###Útgáfustýring: Git og GitHub. (4%)
 
 *	Notið skipulagða Git branch aðferð í hópvinnu. Sjá t.d. http://www.creativebloq.com/web-design/choose-right-git- branching-strategy-121518344  
 *	Búið til wiki á GitHub fyrir verkefnið.
@@ -17,13 +17,14 @@
 *	Athugið að frá 21. nóvember (eða fyrr) til 4. desember (skiladagur ) þá eiga nemendur að nota Git og GitHub 	í hvert skipti sem unnið er í afurð (í öllum kennslustundum og utan) fyrir hópverkefnið
 
 
-####Afurð (8%)
+###Afurð (8%)
 
-##Afurð er metin útfrá verkefnalýsingu og vinnuframlagi.
+####Námsmat
+Afurð er metin útfrá verkefnalýsingu og vinnuframlagi.
 
-##Námsmat og Skil.
+####Skil
 Hver og einn nemandi í hópnum þarf að skila GitHub slóð á verkefnið í öllum þeim áföngum þar sem hópverkefnið er metið til einkunna í síðasta lagi 4. desember.
 
-Nemendur kynna verkefnið sitt í lok áfangans.
+####Nemendur kynna verkefnið sitt í lok áfangans.
 
 
