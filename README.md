@@ -1,7 +1,7 @@
 # Hópverkefni tölvubrautar
 
 <i>Áætlaður tími; 2 vikur eða 32 klst í kennslustofu á mann. <br>
-(1% er  jafngilt c.a 3  klst af vinnu í skóla)</i>i>
+(1% er  jafngilt c.a 3  klst af vinnu í skóla)</i>
 
 
 ####Einkunn er gefin útfrá vinnuframlagi og eftirtöldum liðum:
